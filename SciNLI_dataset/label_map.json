@@ -1,0 +1,6 @@
+{
+    "contrasting" : 0,
+    "reasoning" : 1,
+    "entailment" : 2,
+    "neutral" : 3
+}
